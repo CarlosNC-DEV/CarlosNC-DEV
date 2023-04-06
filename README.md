@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Noguera</h1>
-<h3 align="center">A web developer passionate about technology</h3>
+<h3 align="center">I am a web developer passionate about technology.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosnc-dev&label=Profile%20views&color=0e75b6&style=flat" alt="carlosnc-dev" /> </p>
 
 - 💬 Ask me about **MERN Stack**
