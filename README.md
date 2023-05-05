@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Carlos Noguera</h1>
 <h3 align="center">A web developer passionate about technology</h3>
 
+<p align="center" >
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **carlosnogueradev@gmail.com**
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="cenetr">
