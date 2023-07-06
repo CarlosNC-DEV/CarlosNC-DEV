@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Noguera</h1>
-<h3 align="center">A Full Stack developer passionate about technology</h3>
+<h3 align="center">A Software Developer passionate about technology</h3>
 
 <p align="center" >
 📫 How to reach me **carlosnogueradev@gmail.com**
